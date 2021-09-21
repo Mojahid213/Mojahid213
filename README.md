@@ -1,6 +1,9 @@
-# Hi There, I am - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=Mojahidul Islam) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi There, I am Mojahidul Islam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Mojahidul Islam Jaber and I am a frontend developer. I am from Bangladesh
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Mojahid23}.${Mojahid213/Mojahid213})
 
