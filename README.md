@@ -2,7 +2,7 @@
 
 My name is Mojahidul Islam Jaber and I am a frontend developer. I am from Bangladesh
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?${your.username}.${your.repo.id})
 
 
 <!--
