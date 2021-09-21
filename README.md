@@ -2,7 +2,7 @@
 
 My name is Mojahidul Islam Jaber and I am a frontend developer. I am from Bangladesh
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Mojahidul Islam&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Mojahidul%Islam&fontSize=90)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Mojahid23}.${Mojahid213/Mojahid213})
