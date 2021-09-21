@@ -1,4 +1,4 @@
-# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi There, I am - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=Mojahidul Islam) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Mojahidul Islam Jaber and I am a frontend developer. I am from Bangladesh
 
