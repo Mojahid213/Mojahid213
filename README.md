@@ -4,7 +4,7 @@
 
 My name is Mojahidul Islam Jaber and I am a frontend developer. I am from Bangladesh and currently I am living in Chandpur.
 
-### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Mojahid23}.${Mojahid213/Mojahid213})
+### Glad to see you here !
 
 <!--
 **Mojahid213/Mojahid213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
